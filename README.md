@@ -1,7 +1,7 @@
 # r_graduate_projects
 This repository contains a collection of data analysis, machine learning, and data visualization projects completed using **R**. The projects reflect academic coursework, personal experiments, and real-world applications of R in areas such as predictive modeling, feature engineering, and data storytelling.
 
-## Project Highlights
+## Projects
 
 ### Movie ROI Prediction
 Predicts the return on investment (ROI) for movies using Random Forest, XGBoost, and Multiple Linear Regression. Includes feature importance analysis and performance visualization.
