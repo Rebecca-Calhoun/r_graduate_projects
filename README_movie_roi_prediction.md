@@ -33,14 +33,17 @@ After extensive data cleaning and feature engineering, multiple machine learning
 | XGBoost (Tuned)        | 0.7391169*  | 0.5638525  | 0.4226821  |
 | Multiple Linear Reg.   | 0.9093914  | 0.6729439  | 0.1260421  |
 
-#Performance Features
-Feature                     Gain        Cover          Frequency
-budget                 5.622534e-01     3.754749e-01   0.314293675
-popularity             2.479007e-01     3.243061e-01   0.299526330
-runtime                1.100839e-01     2.150299e-01   0.247701310
-num_production_companies 7.262432e-02   7.941054e-02   0.122875453
-has_tagline            7.037911e-03     5.752869e-03   0.013931457
-num_cast               9.976097e-05     2.564905e-05   0.001671775
+## Feature Importance Table
+
+| Feature                  | Gain     | Cover    | Frequency |
+|--------------------------|----------|----------|------------|
+| `budget`                 | 0.5623   | 0.3755   | 0.3143     |
+| `popularity`             | 0.2479   | 0.3243   | 0.2995     |
+| `runtime`                | 0.1101   | 0.2150   | 0.2477     |
+| `num_production_companies` | 0.0726 | 0.0794   | 0.1229     |
+| `has_tagline`            | 0.0070   | 0.0058   | 0.0139     |
+| `num_cast`               | 0.0001   | 0.0000   | 0.0017     |
+
 
 ## Goal
 
