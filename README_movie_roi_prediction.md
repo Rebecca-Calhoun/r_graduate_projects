@@ -45,6 +45,14 @@ After extensive data cleaning and feature engineering, multiple machine learning
 | `num_cast`               | 0.0001   | 0.0000   | 0.0017     |
 
 
+
+
 ## Goal
 
 To identify which production-related features drive movie ROI and explore whether machine learning methods outperform linear models in predicting financial success.
+
+## Author
+**Rebecca Calhoun**
+M.S. in Data Analytics (July 2025)  
+ [LinkedIn](https://www.linkedin.com/in/rebecca-calhoun9/) | [Resume](https://yourportfolio.com)
+
