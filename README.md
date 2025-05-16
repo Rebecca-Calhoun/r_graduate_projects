@@ -3,7 +3,7 @@ This repository contains a collection of data analysis, machine learning, and da
 
 ## Projects
 
-### Movie ROI Prediction
+### movie-roi-prediction.R
 Predicts the return on investment (ROI) for movies using Random Forest, XGBoost, and Multiple Linear Regression. Includes feature importance analysis and performance visualization.
 
 ## Requirements
