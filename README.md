@@ -12,7 +12,6 @@ Predicts the return on investment (ROI) for movies using Random Forest, XGBoost,
 
 ## Requirements
 To successfully run the projects in this repository, you'll need the following:
-### Software
 - **R** version 4.0 or higher
 - **RStudio** (recommended IDE)
 
