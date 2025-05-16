@@ -41,5 +41,5 @@ To run any project:
 **Rebecca Calhoun**  
 
 M.S. in Data Analytics (July 2025)  
- [LinkedIn](https://www.linkedin.com/in/rebecca-calhoun9/) | [Resume](https://yourportfolio.com)
+ [LinkedIn](https://www.linkedin.com/in/rebecca-calhoun9/) | 
 
