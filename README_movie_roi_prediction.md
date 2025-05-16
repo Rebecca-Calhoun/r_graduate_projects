@@ -1,4 +1,4 @@
-# Movie ROI Prediction
+# movie-roi-prediction.R
 
 This project uses R to model and predict the return on investment (ROI) of movies based on budget, revenue, cast size, popularity, and other metadata. 
 After extensive data cleaning and feature engineering, multiple machine learning models—including Random Forest, XGBoost, and Multiple Linear Regression—are trained and evaluated.
