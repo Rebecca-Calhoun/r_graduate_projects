@@ -41,7 +41,7 @@ To run any project:
 
 ## External Resources
 
-- [My GitHub SAS Projects](https://github.com/Rebecca-Calhoun/sas-projects)
+- [My GitHub SAS Projects](https://github.com/Rebecca-Calhoun/sas_graduate_projects)
 
 ## Author
 
