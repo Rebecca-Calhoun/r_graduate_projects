@@ -21,7 +21,7 @@ After extensive data cleaning and feature engineering, multiple machine learning
 
 ## Dataset
 
-- `movie_dataset.csv`: Includes metadata about films (budget, revenue, popularity, cast, etc.) sourced from Utkarsh Singh's dataset on (Kaggle)[https://www.kaggle.com/datasets/utkarshx27/movies-dataset]
+- `movie_dataset.csv`: Includes metadata about films (budget, revenue, popularity, cast, etc.) sourced from [Utkarsh Singh's dataset on Kaggle](https://www.kaggle.com/datasets/utkarshx27/movies-dataset)
 - ROI and profit were calculated within the project using available fields.
   
 ## Performance Summary (log(ROI))
