@@ -15,19 +15,6 @@ To successfully run the projects in this repository, you'll need the following:
 ### Software
 - **R** version 4.0 or higher
 - **RStudio** (recommended IDE)
-- 
-### R Packages
-Most projects use a core set of packages from the R ecosystem. Be sure to install any missing packages using `install.packages()`.
-Common packages include:
-- **Data Wrangling & Manipulation**:
-  - `dplyr`, `tidyr`, `readr`, `lubridate`, `stringr`
-- **Data Visualization**:
-  - `ggplot2`, `plotly`
-- **Modeling & Machine Learning**:
-  - `caret`, `randomForest`, `xgboost`, `e1071`
-- **Project-Specific**:
-  - Some projects may require additional packages—refer to the top of each script for details.
-
 
 ## Tools & Packages Used
 
