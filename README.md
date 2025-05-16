@@ -7,7 +7,7 @@ This repository contains a collection of data analysis, machine learning, and da
 
 ## Project Highlights
 
-### [Movie ROI Prediction](./movie-roi-prediction)
+### Movie ROI Prediction
 Predicts the return on investment (ROI) for movies using Random Forest, XGBoost, and Multiple Linear Regression. Includes feature importance analysis and performance visualization.
 
 
@@ -41,7 +41,7 @@ To run any project:
 
 ## External Resources
 
-- [My GitHub SAS Projects](https://github.com/YOURUSERNAME/sas-projects)
+- [My GitHub SAS Projects](https://github.com/Rebecca-Calhoun/sas-projects)
 
 ## Author
 
