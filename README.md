@@ -10,6 +10,24 @@ This repository contains a collection of data analysis, machine learning, and da
 ### Movie ROI Prediction
 Predicts the return on investment (ROI) for movies using Random Forest, XGBoost, and Multiple Linear Regression. Includes feature importance analysis and performance visualization.
 
+## Requirements
+To successfully run the projects in this repository, you'll need the following:
+### Software
+- **R** version 4.0 or higher
+- **RStudio** (recommended IDE)
+- 
+### R Packages
+Most projects use a core set of packages from the R ecosystem. Be sure to install any missing packages using `install.packages()`.
+Common packages include:
+- **Data Wrangling & Manipulation**:
+  - `dplyr`, `tidyr`, `readr`, `lubridate`, `stringr`
+- **Data Visualization**:
+  - `ggplot2`, `plotly`
+- **Modeling & Machine Learning**:
+  - `caret`, `randomForest`, `xgboost`, `e1071`
+- **Project-Specific**:
+  - Some projects may require additional packages—refer to the top of each script for details.
+
 
 ## Tools & Packages Used
 
@@ -18,14 +36,7 @@ Predicts the return on investment (ROI) for movies using Random Forest, XGBoost,
 - `randomForest`, `xgboost`, `lm`, `forecast`
 - `ggplot2`, `plotly` for data visualization
 - `lubridate`, `stringr`, and other utility packages
-
-## Structure
-
-Each project is organized into its own folder and includes:
-- `.R` scripts for analysis and modeling
-- `README.md` (project-specific summaries)
-- Data files (if publicly shareable)
-- Outputs: charts, model metrics, etc.
+-- Git (for version control if cloning the repo)
 
 ## Getting Started
 
@@ -38,13 +49,15 @@ To run any project:
 ##  Notes
 
 - Projects are for educational and portfolio purposes.
+- Results and models reflect exploratory work rather than production-level pipelines.
 
 ## External Resources
 
 - [My GitHub SAS Projects](https://github.com/Rebecca-Calhoun/sas_graduate_projects/)
 
 ## Author
-
 **Rebecca Calhoun**  
 
+M.S. in Data Analytics (July 2025)  
+ [LinkedIn](https://www.linkedin.com/in/rebecca-calhoun9/) | [Resume](https://yourportfolio.com)
 
